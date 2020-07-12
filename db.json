@@ -1,0 +1,76 @@
+{
+  "shopping": [
+    {
+      "id": "42defcfe-8a06-4006-9b01-7e1e80cd458e",
+      "name": "abc"
+    },
+    {
+      "id": "4f99088c-951b-419a-8d5b-711bc624b458",
+      "name": "grg"
+    },
+    {
+      "id": "abc9943f-268b-485d-8473-9bddda6d22db",
+      "name": "mkjkk"
+    }
+  ],
+  "Banks": [
+    {
+      "BankID": "0",
+      "BankName": "JPMorgan Chase"
+    },
+    {
+      "BankID": "1",
+      "BankName": "Bank of America"
+    },
+    {
+      "BankID": "2",
+      "BankName": "HSBC Holdings"
+    },
+    {
+      "BankID": "3",
+      "BankName": "HDFC Bank"
+    },
+    {
+      "BankID": "4",
+      "BankName": "ICICI Bank"
+    },
+    {
+      "BankID": "5",
+      "BankName": "Commonwealth Bank"
+    },
+    {
+      "BankID": "6",
+      "BankName": "Lioyds TSB"
+    },
+    {
+      "BankID": "7",
+      "BankName": "Commerzbank"
+    },
+    {
+      "BankID": "8",
+      "BankName": "UBS Bank AG"
+    },
+    {
+      "BankID": "9",
+      "BankName": "Citibank"
+    }
+  ],
+  "BankAccounts": [
+    {
+      "BankAccountID": "00a61a8c-8b1d-4e40-bc7c-eeb36d8bcdfe",
+      "AccountNumber": "767567",
+      "AccountHolder": "jhjhdj",
+      "BankID": "2",
+      "IFSC": "6645645",
+      "id": 1
+    },
+    {
+      "BankAccountID": "5b71f5f5-47d5-4fa9-9153-3cfe2081f49e",
+      "AccountNumber": "6666",
+      "AccountHolder": "yytrh",
+      "BankID": "9",
+      "IFSC": "412342133",
+      "id": 4
+    }
+  ]
+}
